@@ -1,4 +1,4 @@
-# React SSR Starting Point
+# Estrutura inicial React SSR
 
 Um projeto React com Server-Side Rendering usando JSX, Babel e Webpack.
 
